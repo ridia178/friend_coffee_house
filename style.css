@@ -330,11 +330,11 @@ section {
 .products .box-container .box .icons a {
     height: 5rem;
     width: 5rem;
-    line-height: 5rem;
+    line-height: 3rem;
     font-size: 2rem;
     border: var(--border);
     color: #fff;
-    margin: 0.3rem;
+    /* margin: 0.3rem; */
 }
 
 .products .box-container .box .icons a:hover {
